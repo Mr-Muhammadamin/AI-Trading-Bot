@@ -1,0 +1,44 @@
+# === Environment ===
+.env
+.env.local
+.env.production
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+
+# === Data ===
+data/historical/
+data/models/*
+!data/models/.gitkeep
+data/trading.db
+*.db
+*.db-journal
+
+# === Logs ===
+logs/
+*.log
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# === Docker ===
+Dockerfile.dockerignore
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Git ===
+# Keep sample config but not real credentials
