@@ -189,7 +189,7 @@ Bu bot **real pul** bilan ishlaydi. Ishlatishdan oldin:
 
 ## 📞 Aloqa
 
-- Telegram: [@Muhammadamin_Dev](https://t.me/Muhammadamin_Dev)
+- Telegram: [@Muhammadamin_Ozadov](https://t.me/Muhammadamin_Ozadov)
 
 ---
 
